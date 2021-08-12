@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning JavaScript (and his friends React and Node.JS)
+- 🌱 Learning JavaScript (and his friends React and Node.JS)
 - 😄 Pronouns: she / her 
 
 <div>

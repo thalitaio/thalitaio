@@ -17,6 +17,7 @@
   <img align="center" alt="Thalita-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Thalita-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thalita-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Thalita-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/devicon-java-plain.svg">
   <img align="right" alt="Thalita-yoda" src="https://66.media.tumblr.com/7a4c6424273846e55743e0accb86c7e6/45b99579060b4394-ac/s540x810/c3ebfbc2c3cfbe7fa00eed8f342c9355056c717f.gif">
 </div>
   

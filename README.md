@@ -1,8 +1,8 @@
 ### Hi there, I'm Thalita Carvalho 👋
 
 
-- 🔭 I’m currently working on personal projects
-- 🌱 Learning JavaScript (and his friends React and Node.JS)
+- 🔭 Working with what I love 
+- 🌱 Java, JS, TS, Angular and more (always curious)
 - 😄 Pronouns: she / her 
 
 <div>

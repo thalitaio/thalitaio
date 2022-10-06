@@ -2,7 +2,7 @@
 
 
 - 🔭 Working with what I love 
-- 🌱 Java, JS, TS, Angular and more (always curious)
+- 🌱 Java, JS, TS, Angular, React and more (always curious)
 - 😄 Pronouns: she / her 
 
 

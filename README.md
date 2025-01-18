@@ -1,8 +1,10 @@
 ### Hi there, I'm Thalita Carvalho 👋
 
+I'm a passionate technology professional committed to continuously improving my skills and contributing to innovative projects. My journey combines enriching experiences in software development and programming education, blending technical expertise with creativity to solve challenges. I believe in the transformative impact of technology and dedicate myself to creating solutions that generate value for society.
+
 
 - 🔭 Working with what I love 
-- 🌱 Java, JS, TS, Angular, React and more (always curious)
+- 🌱 Javascript, Node.js, Typescript, Next.js, React, Python and some more (always curious)
 - 😄 Pronouns: she / her 
 
 
@@ -20,7 +22,7 @@
 ##
   
 <div>
-  <a href="https://instagram.com/thalita.io" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/thalitanc_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatothalitanunes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thalitaio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
